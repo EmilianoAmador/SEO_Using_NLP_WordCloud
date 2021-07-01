@@ -12,4 +12,5 @@ Actionable Steps:
 
 Things to consider:
 * Identify specializations that are more in demand and could factor in to higher volume of views by recruiters.
+* Keep the same city, filters, 
 * This experiment can be better tested on websites where visibility in search engines can be analyzed using Google Analytics.
