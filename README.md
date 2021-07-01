@@ -1,5 +1,5 @@
 # SEO_Using_NLP_WordCloud
-In order to increase visibility of our content in search results, we need to have keywords that align with those used by users searching for our content. In this activity, I will use NLP to create a wordcloud of keywords relevant to a job title. The hypothesis is that the wordcloud will highlight the keywords used by recruiters when looking for a qualified candidate. Additionally, the more titles used the more accurate the results. 
+In order to increase visibility of our content in search results, we need to have keywords that align with those used by users searching for our content. In this activity, I will use NLP to create a wordcloud of keywords relevant to a job title. The hypothesis is that the wordcloud will highlight the keywords used by recruiters when looking for a qualified candidate. Additionally, the more titles used the more accurate the results. (Note: that Every job posting uses the same format for listing Job titles)
 
 Actionable Steps:
 * Web Scrape data from various sites: Will be using LinkedIn, Glassdoors, and BuiltIn.
